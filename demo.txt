@@ -1,2 +1,7 @@
 ﻿create a new branch
+<<<<<<< HEAD
 createing a new branch is quick AND simple
+=======
+createing a new branch is quick AND simple
+i think there will be a problem
+>>>>>>> dem
